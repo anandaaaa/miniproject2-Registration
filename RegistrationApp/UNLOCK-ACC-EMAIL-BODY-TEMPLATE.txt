@@ -1,0 +1,13 @@
+Hi {FNAME},
+<br/>
+
+Hi welcome to yeswanth page
+<br/>
+
+Temporary passowrd:{TEMP-PWD}<br/>
+
+<br/>
+<a href='http://localhost:9090/unlockAcc?email={EMAIL}'>
+Click here to unlock your account
+<br/></a>
+
